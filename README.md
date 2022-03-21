@@ -19,3 +19,6 @@ Future Features:
 - possible api to start the website off with starter videos
 - User can see total upvotes they have received (downvotes will subtract from the users total votes)
 - User can spend their upvotes to gain access to special emoji's or backgrounds for the website
+
+database model
+![database-mvp-capstone](https://user-images.githubusercontent.com/86342418/159331781-c7cda441-94e7-404e-a7c1-ee503b296ed9.PNG)
